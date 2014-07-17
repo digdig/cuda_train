@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/dispatch
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/dispatch/copy.h
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/dispatch/scan.h
+END

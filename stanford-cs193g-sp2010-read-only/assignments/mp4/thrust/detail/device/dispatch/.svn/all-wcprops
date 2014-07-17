@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/copy.h
+END
+free.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/free.h
+END
+set_intersection.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/set_intersection.h
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/scan.h
+END
+for_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/for_each.h
+END
+fill.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/fill.h
+END
+reduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/reduce.h
+END
+malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/malloc.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dispatch/sort.h
+END

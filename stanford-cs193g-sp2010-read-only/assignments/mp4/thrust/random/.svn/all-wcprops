@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random
+END
+xor_combine_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/xor_combine_engine.h
+END
+linear_congruential_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/linear_congruential_engine.h
+END
+linear_feedback_shift_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/linear_feedback_shift_engine.h
+END
+uniform_real_distribution.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/uniform_real_distribution.h
+END
+subtract_with_carry_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/subtract_with_carry_engine.h
+END
+normal_distribution.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/normal_distribution.h
+END
+uniform_int_distribution.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/uniform_int_distribution.h
+END
+discard_block_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/discard_block_engine.h
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device
+END
+distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/distance.h
+END
+generate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/generate.h
+END
+remove.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/remove.h
+END
+is_trivial_copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/is_trivial_copy.h
+END
+extrema.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/extrema.h
+END
+scatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/scatter.h
+END
+unique.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/unique.h
+END
+for_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/for_each.h
+END
+reduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/reduce.h
+END
+dereference.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/dereference.h
+END
+binary_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/binary_search.h
+END
+swap_ranges.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/swap_ranges.h
+END
+partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/partition.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/copy.h
+END
+inner_product.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/inner_product.h
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/transform.h
+END
+segmented_scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/segmented_scan.h
+END
+set_intersection.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/set_intersection.h
+END
+sort.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/sort.inl
+END
+adjacent_difference.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/adjacent_difference.h
+END
+copy_if.inl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/copy_if.inl
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/scan.h
+END
+fill.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/fill.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/sort.h
+END

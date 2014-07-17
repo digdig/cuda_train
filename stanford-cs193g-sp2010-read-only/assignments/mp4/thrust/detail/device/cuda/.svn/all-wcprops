@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda
+END
+copy_cross_space.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/copy_cross_space.h
+END
+launch_closure.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/launch_closure.inl
+END
+for_each.inl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/for_each.inl
+END
+reduce.inl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/reduce.inl
+END
+trivial_copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/trivial_copy.h
+END
+launch_closure.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/launch_closure.h
+END
+for_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/for_each.h
+END
+malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/malloc.h
+END
+reduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/reduce.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/copy.h
+END
+segmented_scan.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/segmented_scan.inl
+END
+copy_device_to_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/copy_device_to_device.h
+END
+set_intersection.inl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/set_intersection.inl
+END
+scan.inl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/scan.inl
+END
+reduce_n.inl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/reduce_n.inl
+END
+segmented_scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/segmented_scan.h
+END
+extern_shared_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/extern_shared_ptr.h
+END
+set_intersection.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/set_intersection.h
+END
+free.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/free.h
+END
+fill.inl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/fill.inl
+END
+sort.inl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/sort.inl
+END
+reduce_n.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/reduce_n.h
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/scan.h
+END
+fill.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/fill.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/sort.h
+END

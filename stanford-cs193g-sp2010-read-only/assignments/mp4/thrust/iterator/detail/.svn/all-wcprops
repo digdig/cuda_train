@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail
+END
+device_iterator_category_to_backend_space.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/device_iterator_category_to_backend_space.h
+END
+counting_iterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/counting_iterator.inl
+END
+constant_iterator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/constant_iterator_base.h
+END
+constant_iterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/constant_iterator.inl
+END
+any_space_tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/any_space_tag.h
+END
+iterator_adaptor.inl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/iterator_adaptor.inl
+END
+backend_iterator_spaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/backend_iterator_spaces.h
+END
+normal_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/normal_iterator.h
+END
+iterator_category_to_space.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/iterator_category_to_space.h
+END
+zip_iterator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/zip_iterator_base.h
+END
+backend_iterator_categories.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/backend_iterator_categories.h
+END
+zip_iterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/zip_iterator.inl
+END
+iterator_facade.inl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/iterator_facade.inl
+END
+minimum_category.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/minimum_category.h
+END
+iterator_traits.inl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/iterator_traits.inl
+END
+permutation_iterator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/permutation_iterator_base.h
+END
+iterator_category_to_traversal.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/iterator_category_to_traversal.h
+END
+permutation_iterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/permutation_iterator.inl
+END
+forced_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/forced_iterator.h
+END
+distance_from_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/distance_from_result.h
+END
+universal_categories.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/universal_categories.h
+END
+reverse_iterator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/reverse_iterator_base.h
+END
+transform_iterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/transform_iterator.inl
+END
+reverse_iterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/reverse_iterator.inl
+END
+is_iterator_category.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/is_iterator_category.h
+END
+minimum_space.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/iterator/detail/minimum_space.h
+END

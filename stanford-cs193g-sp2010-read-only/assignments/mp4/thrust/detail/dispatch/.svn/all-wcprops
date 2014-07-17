@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch
+END
+destroy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/destroy.h
+END
+distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/distance.h
+END
+generate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/generate.h
+END
+remove.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/remove.h
+END
+advance.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/advance.h
+END
+uninitialized_copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/uninitialized_copy.h
+END
+scatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/scatter.h
+END
+extrema.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/extrema.h
+END
+unique.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/unique.h
+END
+for_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/for_each.h
+END
+reduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/reduce.h
+END
+binary_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/binary_search.h
+END
+swap_ranges.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/swap_ranges.h
+END
+partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/partition.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/copy.h
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/transform.h
+END
+inner_product.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/inner_product.h
+END
+uninitialized_fill.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/uninitialized_fill.h
+END
+segmented_scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/segmented_scan.h
+END
+set_intersection.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/set_intersection.h
+END
+adjacent_difference.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/adjacent_difference.h
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/scan.h
+END
+fill.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/fill.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/dispatch/sort.h
+END

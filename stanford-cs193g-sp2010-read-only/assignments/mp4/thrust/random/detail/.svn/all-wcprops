@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail
+END
+random_core_access.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/random_core_access.h
+END
+linear_feedback_shift_engine.inl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/linear_feedback_shift_engine.inl
+END
+uniform_real_distribution.inl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/uniform_real_distribution.inl
+END
+xor_combine_engine_max.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/xor_combine_engine_max.h
+END
+mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/mod.h
+END
+normal_distribution.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/normal_distribution.inl
+END
+linear_congruential_engine_discard.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/linear_congruential_engine_discard.h
+END
+subtract_with_carry_engine.inl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/subtract_with_carry_engine.inl
+END
+discard_block_engine.inl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/discard_block_engine.inl
+END
+uniform_int_distribution.inl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/uniform_int_distribution.inl
+END
+xor_combine_engine.inl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/xor_combine_engine.inl
+END
+linear_congruential_engine.inl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/linear_congruential_engine.inl
+END
+linear_feedback_shift_engine_wordmask.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/random/detail/linear_feedback_shift_engine_wordmask.h
+END

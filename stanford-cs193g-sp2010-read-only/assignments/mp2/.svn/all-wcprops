@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/214/trunk/assignments/mp2
+END
+mp2-util.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/204/trunk/assignments/mp2/mp2-util.h
+END
+mp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/211/trunk/assignments/mp2/mp2.h
+END
+mp2-part3-reference.cu
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/211/trunk/assignments/mp2/mp2-part3-reference.cu
+END
+mp2-part1.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/214/trunk/assignments/mp2/mp2-part1.cu
+END
+mp2-part2.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/211/trunk/assignments/mp2/mp2-part2.cu
+END
+mp2-part3.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/211/trunk/assignments/mp2/mp2-part3.cu
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/204/trunk/assignments/mp2/Makefile
+END

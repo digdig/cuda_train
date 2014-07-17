@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/block
+END
+odd_even_sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/block/odd_even_sort.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/block/copy.h
+END
+merging_sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/block/merging_sort.h
+END
+inclusive_scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/block/inclusive_scan.h
+END
+reduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/cuda/block/reduce.h
+END

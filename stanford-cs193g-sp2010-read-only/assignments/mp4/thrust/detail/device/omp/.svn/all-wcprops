@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp
+END
+copy_device_to_host_or_any.inl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/copy_device_to_host_or_any.inl
+END
+copy_host_or_any_to_device.inl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/copy_host_or_any_to_device.inl
+END
+copy_device_to_host_or_any.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/copy_device_to_host_or_any.h
+END
+copy_host_or_any_to_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/copy_host_or_any_to_device.h
+END
+for_each.inl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/for_each.inl
+END
+reduce.inl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/reduce.inl
+END
+copy_device_to_device.inl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/copy_device_to_device.inl
+END
+for_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/for_each.h
+END
+reduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/reduce.h
+END
+copy_device_to_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/copy_device_to_device.h
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/copy.h
+END
+scan.inl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/scan.inl
+END
+sort.inl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/sort.inl
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/scan.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/sort.h
+END

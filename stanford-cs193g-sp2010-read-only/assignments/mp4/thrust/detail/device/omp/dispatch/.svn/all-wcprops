@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/dispatch
+END
+copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/dispatch/copy.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/238/trunk/assignments/mp4/thrust/detail/device/omp/dispatch/sort.h
+END

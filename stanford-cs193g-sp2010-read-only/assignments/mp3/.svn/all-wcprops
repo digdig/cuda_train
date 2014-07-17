@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/236/trunk/assignments/mp3
+END
+black_scholes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/226/trunk/assignments/mp3/black_scholes.h
+END
+scan.cu
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/226/trunk/assignments/mp3/scan.cu
+END
+mp3-part1.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/226/trunk/assignments/mp3/mp3-part1.cu
+END
+mp3-part2.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/236/trunk/assignments/mp3/mp3-part2.cu
+END
+scatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/226/trunk/assignments/mp3/scatter.h
+END
+compact.cu
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/226/trunk/assignments/mp3/compact.cu
+END
+mp3-part3.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/226/trunk/assignments/mp3/mp3-part3.cu
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/228/trunk/assignments/mp3/README
+END
+mp3-util.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/226/trunk/assignments/mp3/mp3-util.h
+END
+black_scholes.cu
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/226/trunk/assignments/mp3/black_scholes.cu
+END
+mp3-questions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/229/trunk/assignments/mp3/mp3-questions.txt
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/226/trunk/assignments/mp3/scan.h
+END
+scatter.cu
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/226/trunk/assignments/mp3/scatter.cu
+END
+compact.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/226/trunk/assignments/mp3/compact.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/227/trunk/assignments/mp3/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/195/trunk/tutorials/util
+END
+cuPrintf.cu
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/tutorials/util/cuPrintf.cu
+END
+stl_heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/195/trunk/tutorials/util/stl_heap.h
+END
+cudatoolkit_eula.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/tutorials/util/cudatoolkit_eula.txt
+END
+cuPrintf.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/tutorials/util/cuPrintf.cuh
+END

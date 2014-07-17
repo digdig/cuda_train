@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/279/trunk/tutorials
+END
+thread_local_variables.cu
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/tutorials/thread_local_variables.cu
+END
+hello_world.cu
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/tutorials/hello_world.cu
+END
+vector_addition.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/279/trunk/tutorials/vector_addition.cu
+END
+block_scan.cu
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/223/trunk/tutorials/block_scan.cu
+END
+shared_variables.cu
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/156/trunk/tutorials/shared_variables.cu
+END
+sum_reduction.cu
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/222/trunk/tutorials/sum_reduction.cu
+END
+matrix_multiplication.cu
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/194/trunk/tutorials/matrix_multiplication.cu
+END
+cuda_memory_model.cu
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/tutorials/cuda_memory_model.cu
+END
+two_dimensional_kernel_launch.cu
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13/trunk/tutorials/two_dimensional_kernel_launch.cu
+END
+device_functions.cu
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/155/trunk/tutorials/device_functions.cu
+END
+cuda_errors.cu
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/172/trunk/tutorials/cuda_errors.cu
+END
+global_functions.cu
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/tutorials/global_functions.cu
+END
