@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cuda.h>
-#define BLOCK_SIZE 16;
+#define BLOCK_SIZE 16
 __global__ void matmulKernel(float* mat_in1,float* mat_in2, float* mat_out,int mat_dim);
 
 int main()	{
@@ -11,7 +11,7 @@ int main()	{
 	dim3 block_dim(BLOCK_SIZE,BLOCK_SIZE,1);
 	int grid_size=width/BLOCK_SIZE;
 	if(width%BLOCK_SIZE) grid_size++;
-	dim3 grid_dim (grid_size,grid_size,1);
+	dim3 grid_dim(grid_size,grid_size,1);
 
 	h_M=(float*)malloc(size);
 	h_N=(float*)malloc(size);
@@ -38,9 +38,22 @@ int main()	{
 
 	printf("firt row of the results matrix P:\n");
 	for(i=0;i<width;i++)	{
-		printf("%f,  %f",h_P[i]);
+		printf("%f,  ",h_P[i]);
 	}
 	printf("\n");
+	printf("the right answer should be:\n");
+
+	for(i=0;i<width;i++)	{
+		float sum=0;
+		for(int k=0;k<width;k++)	{
+			sum+=h_M[k]*h_N[k*width+i];
+		}
+		printf("%f,  ",sum);
+	}
+	printf("\n");
+
+	free(h_M);free(h_N);free(h_P);
+	cudaFree(d_M);cudaFree(d_N);cudaFree(d_P);
 	return 0;
 }
 
