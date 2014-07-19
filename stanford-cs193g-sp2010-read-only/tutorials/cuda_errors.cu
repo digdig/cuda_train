@@ -1,13 +1,4 @@
-// This example demonstrates how to check for CUDA errors,
-// which indicate programming bugs, or otherwise broken
-// program behavior.
-
-#include <stdlib.h>
-#include <stdio.h>
-
-
-// our old friend, the "fill-with-7" kernel
-__global__ void kernel(int *array)
+_global__ void kernel(int *array)
 {
   int index = blockIdx.x * blockDim.x + threadIdx.x;
   array[index] = 7;
